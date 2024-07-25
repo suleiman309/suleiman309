@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suleiman309
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Backend development in node.js, Express.js and Firebase
+- 🌱 I’m currently learning Backend development in node.js, Express.js and MongoDB
 - 💞️ I’m looking to collaborate on Software projects and Startup
 - 📫 How to reach me suleimansalum309@gmail.com
 
